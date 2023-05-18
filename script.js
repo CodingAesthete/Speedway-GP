@@ -1,6 +1,6 @@
 $(window).on('load', function() {
   $('.flexslider').flexslider({
-    
+    pauseOnHover: true,
   });
   createSound();
 })
